@@ -251,69 +251,6 @@
         "国产剧",
         "邵氏电影"
       ]
-    },    
-    {
-      "key": "jy",
-      "name": "金鹰",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "内地剧",
-        "短剧"
-      ]
-    },
-    {
-      "key": "gs",
-      "name": "光速",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动漫",
-        "动漫电影",
-        "大陆剧",
-        "短剧"
-      ]
-    },
-    {
-      "key": "js",
-      "name": "极速",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "动画片",
-        "内地剧",
-        "短剧"
-      ]
-    },
-    {
-      "key": "hn",
-      "name": "红牛",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动漫",
-        "动漫电影",
-        "国产剧",
-        "短剧"
-      ]
     },
     {
       "key": "kc",
@@ -335,23 +272,6 @@
       ]
     },
     {
-      "key": "sb",
-      "name": "速播",
-      "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "动漫电影",
-        "大陆剧",
-        "短剧"
-      ]
-    },
-    {
       "key": "nn",
       "name": "牛牛",
       "type": 1,
@@ -364,23 +284,6 @@
         "日韩动漫",
         "欧美动漫",
         "海外动漫"
-      ]
-    },
-    {
-      "key": "hy",
-      "name": "虎牙",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "动画片",
-        "内地剧",
-        "短剧"
       ]
     },
     {
@@ -550,7 +453,7 @@
         "动画片",
         "国产剧"
       ]
-    },    
+    },
     {
       "key": "bd",
       "name": "百度",
